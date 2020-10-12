@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol?</string>
+
+    <string name="frase_cabecalho">Informe os valores do etanol e da gasolina</string>
+
+    <string name="texto_botao_comparar">COMPARAR</string>
+
+    <string name="textView_resultado">Resultado:</string>
+
+    <string name="editText_valor_gasolina_hint">Valor da gasolina</string>
+    <string name="editText_valor_etanol_hint">Valor do etanol</string>
+
+
+</resources>
